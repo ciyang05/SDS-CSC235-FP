@@ -65,7 +65,7 @@ N/A
         eg. sum the product of the attendance values 
     - Divide the indicator sum by total enrollment of all schools in the county, giving the weighted average for each indicator
 3) Run the script. This will create two new files, a merged file and a file with the weighted indicator averages for each county. 
-4) Create a new spreadsheet with aggregated values for each county across all indicators nad years.
+4) Create a new spreadsheet with aggregated values for each county across all indicators and years.
     - Edited the values to have only 1 decimal place
     - Stored in same folder, “Datasets w/Weights”
 
